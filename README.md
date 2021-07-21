@@ -1,2 +1,2 @@
 # Write-to-Text
-A write to text  visual studio project for fun
+A write to text  visual studio project
